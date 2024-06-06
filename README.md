@@ -5,5 +5,5 @@ Simple chat application
 </br>
 To run it on your Linux machine
 1. Clone the repository
-2. cd to `Bare-Metal-Char`
+2. cd to `Bare-Metal-Chat`
 3. Run `sudo ./install.sh`
