@@ -1,4 +1,4 @@
-#Simple chat application
+Simple chat application
 </br> Server written in C
 </br> Client written in Python
 </br>
