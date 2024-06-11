@@ -15,4 +15,4 @@ cp client/chat_client.py /usr/local/bin/chat_client
 
 chmod +x /usr/local/bin/chat_client
 
-echo "Installation complete.\n Use command 'server' to run server. \n and command 'client' to run client"
+echo "Installation complete.\n Use command 'chat_server' to run server. \n and command 'chat_client' to run client"
